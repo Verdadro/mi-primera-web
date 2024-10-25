@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #;
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #0074D9;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos de las secciones */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #0074D9;
+}
+
+/* Estilos del pie de página */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ddd;
+}
+
+a {
+    color: #0074D9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
